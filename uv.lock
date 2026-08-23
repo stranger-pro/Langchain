@@ -857,6 +857,7 @@ dependencies = [
     { name = "langchain-openai" },
     { name = "langchain-tavily" },
     { name = "langgraph" },
+    { name = "pydantic" },
     { name = "python-dotenv" },
 ]
 
@@ -869,6 +870,7 @@ requires-dist = [
     { name = "langchain-openai", specifier = ">=1.5.1" },
     { name = "langchain-tavily", specifier = ">=0.2.18" },
     { name = "langgraph", specifier = ">=1.2.11" },
+    { name = "pydantic", specifier = ">=2.13.4" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
 ]
 
