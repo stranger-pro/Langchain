@@ -7,3 +7,6 @@ langchain-google-genai
 python-dotenv
 langchain-tavily
 pydantic
+langchain_text_splitters
+sentence-transformers
+langchain-huggingface
